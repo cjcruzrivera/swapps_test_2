@@ -14,7 +14,7 @@ structure.
 * For proper use, the test should be performed on a Unix system with python 3 installed.
 
 ~~~
-$ git clone https://github.com/cjcruzrivera/swapps_test_1.git
+$ git clone https://github.com/cjcruzrivera/swapps_test_2.git
 ~~~
 
 * You can test the main file directly or if you need, you can move the method.py file to your own project, and include on your code like that.
