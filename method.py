@@ -34,6 +34,5 @@ def getFourLenSubStringRepeated(mainString):
             count = mainString.count(substring)
             if(count > 1):
                 result[substring] = count
-        index += 1
 
     return result
